@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Anthony Gaillard
+
+- 🔭 I’m currently working on a french actor portfolio
+- 🌱 I’m currently learning Frameworks (Laravel, Vue, Node.JS) and stuff
+- 📫 You can reach me at anthonygaillard92@gmail.com
 
 <!--
 **AnthonyGaillard/AnthonyGaillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
