@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anthony Gaillard
 
 - 🔭 I’m currently working on a siteweb focus on writting short stories throught challenges
-- 🌱 I’m currently learning Frameworks (Laravel, Vue, Node.JS) and stuff
+- 🌱 I’m currently learning Frameworks (Laravel, Vue, React, Node.JS) and stuff
 - 📫 You can reach me at anthonygaillard92@gmail.com
 
 <!--
